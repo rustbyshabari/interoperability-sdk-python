@@ -1,3 +1,9 @@
+# BHILANI Interoperability by kantini, chanchali
+
+Run SDK
+
+    python3 main.py
+
 Basic Usage
 
     class PySDKit:
@@ -150,4 +156,11 @@ Concurrent Usage
     if __name__ == "__main__":
         asyncio.run(main())
 
-<img width="939" height="433" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/9e27b925-2c24-412e-95a3-5bb4e9afbcfe" />
+First time
+<img width="877" height="440" alt="python1" src="https://github.com/user-attachments/assets/e226250c-9ffd-42f0-815c-eec97366dd91" />
+Second time
+<img width="930" height="439" alt="python2" src="https://github.com/user-attachments/assets/3de4d743-1ac4-4ea8-a3ca-fb6c307ce426" />
+Third time
+<img width="842" height="439" alt="python3" src="https://github.com/user-attachments/assets/4741a21e-71bf-4b7e-bd2b-74333b10c966" />
+
+**@AIAmitSuri, Co-creator/Co-founder (🙏 Mata Shabri 🙏)**
